@@ -1,0 +1,15 @@
+{
+  "name": "openai-chatkit-sample-apps",
+  "private": true,
+  "scripts": {
+    "cat-lounge": "npm --prefix examples/cat-lounge install && npm --prefix examples/cat-lounge start",
+    "customer-support": "npm --prefix examples/customer-support install && npm --prefix examples/customer-support start",
+    "news-guide": "npm --prefix examples/news-guide install && npm --prefix examples/news-guide start",
+    "metro-map": "npm --prefix examples/metro-map install && npm --prefix examples/metro-map start",
+    "car-scout": "npm --prefix examples/car-scout install && npm --prefix examples/car-scout start",
+    "car-listing": "npm --prefix examples/car-listing install && npm --prefix examples/car-listing start"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2"
+  }
+}
