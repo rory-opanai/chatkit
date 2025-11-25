@@ -16,7 +16,4 @@
 | Car Scout        | `npm run car-scout`        | `cd examples/car-scout && npm install && npm run start`    | http://localhost:5174 |
 | Car Listing Builder | `npm run car-listing`   | `cd examples/car-listing && npm install && npm run start`  | http://localhost:5175 |
 
-## Feature index
-
-### Server tool calls to retrieve application data for inference
 
